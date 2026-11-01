@@ -1,0 +1,6 @@
+interface:
+  display_name: "天猛星 MSPM0G3507 开发"
+  short_description: "覆盖天猛星板级适配、CCS 与 SysConfig 配置、固件构建及下载调试"
+  default_prompt: "使用 $tmx-mspm0g3507-dev 核对天猛星板卡与当前工程，完成本次开发任务并报告实际验证结果。"
+policy:
+  allow_implicit_invocation: true

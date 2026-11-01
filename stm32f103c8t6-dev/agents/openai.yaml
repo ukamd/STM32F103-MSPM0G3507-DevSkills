@@ -1,0 +1,6 @@
+interface:
+  display_name: "STM32F103C8T6 开发"
+  short_description: "覆盖 F103C8T6 工程配置、外设开发、命令行构建、下载与调试"
+  default_prompt: "使用 $stm32f103c8t6-dev 识别当前工程和工具环境，完成本次固件开发任务并报告实际验证结果。"
+policy:
+  allow_implicit_invocation: true
